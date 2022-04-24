@@ -1,0 +1,5 @@
+name: LimitCraft
+version: '${project.version}'
+main: me.hsgamer.limitcraft.LimitCraft
+api-version: 1.16
+authors: [ HSGamer ]
